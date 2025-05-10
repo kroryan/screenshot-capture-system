@@ -7,6 +7,8 @@
 
 This system allows you to automatically capture screenshots of a specific URL at regular intervals. It uses Selenium and Chrome in headless mode to capture high-quality images without needing a graphical interface.
 
+
+(This project was make to monotorize my civrealm llm agent)
 ## Features
 
 - Automatic screenshots of any website or web application
